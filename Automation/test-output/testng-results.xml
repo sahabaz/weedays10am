@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+      <class name="Programs.Testng2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Programs.Testng2@1563da5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Programs.Testng2@1563da5]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="a()[pri:0, instance:Programs.Testng2@1563da5]" name="a" duration-ms="15" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Programs.Testng2@1563da5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Programs.Testng2@1563da5]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Programs.Testng2 -->
+      <class name="Programs.Testng1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="b()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="b" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="c()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="c" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Programs.Testng1@ea1a8d5]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-12-01T06:52:56Z" finished-at="2018-12-01T06:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Programs.Testng1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
